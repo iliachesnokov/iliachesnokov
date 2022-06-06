@@ -12,6 +12,7 @@ I'm Ilia, a 23 years old web developer from Latvia.
 - 👨‍💻 JS, TS (5 years)
 - 🧐 Vue.js (3 years)
 - ⚙️ Solidity (2 years)
+- 🦀 Rust (1 year)
 - 👁️ SASS, CSS
 - 💽 PostgreSQL, MySQL, MongoDB
 
